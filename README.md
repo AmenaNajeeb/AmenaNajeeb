@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am ${your.username}.${your.repo.id}
+I am ${AmenaNajeeb}.${AmenaNajeeb}
 
 Glad to See you here!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
