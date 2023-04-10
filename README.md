@@ -4,7 +4,7 @@ I am Amena. The top 3 things I love are Teaching, Coding, Cooking.<br/>
 I keep exploring new courses online and implement what I learn.
 I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
 <br/>
-<div>
+<div style="align:center">
 <img width="90%" src="https://info.examtime.com/files/2014/05/study-motivation-tips.jpg" style="width: 25%; height:25%; align:center;">
 </div>
 <br/>
