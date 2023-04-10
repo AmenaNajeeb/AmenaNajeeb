@@ -5,7 +5,7 @@ I keep exploring new courses online and implement what I learn.
 I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
 <br/>
 <div style="margin-left:auto; margin-right:auto;">
-<img width="90%" src="https://info.examtime.com/files/2014/05/study-motivation-tips.jpg" style="width: 25%; height:25%; margin-left:auto; margin-right:auto;">
+<img width="90%" src="https://info.examtime.com/files/2014/05/study-motivation-tips.jpg" style="display:block; width: 25%; height:25%; margin-left:auto; margin-right:auto;">
 </div>
 <br/>
 Things I tell myself to stay motivated:
