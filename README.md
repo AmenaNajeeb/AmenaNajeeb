@@ -5,7 +5,7 @@ I keep exploring new courses online and implement what I learn.
 I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
 <br/>
 <br/>
-<img src="https://github.com/AmenaNajeeb/AmenaNajeeb/blob/main/quote2.png" style="display:block; width: 30%; height:30%; justify-content:center; align:center; dir:auto;">
+<img src="[https://github.com/AmenaNajeeb/AmenaNajeeb/blob/main/quote2.png](https://quotefancy.com/media/wallpaper/3840x2160/2009362-Urijah-Faber-Quote-Dream-big-stay-positive-work-hard-and-enjoy-the.jpg)" style="display:block; width: 30%; height:30%; justify-content:center; align:center; dir:auto;">
 <br/>
 <br/>
 
