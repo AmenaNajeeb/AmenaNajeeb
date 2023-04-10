@@ -4,7 +4,9 @@ I am Amena. The top 3 things I love are Teaching, Coding, Cooking.<br/>
 I keep exploring new courses online and implement what I learn.
 I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
 <br/>
-<img width="90%" src="https://github.com/AmenaNajeeb/AmenaNajeeb/blob/main/quote.jpg" style="max-width: 100%;">
+<div>
+<img width="90%" src="https://info.examtime.com/files/2014/05/study-motivation-tips.jpg" style="max-width: 100%;">
+</div>
 <br/>
 Things I tell myself to stay motivated:
 - Give Yourself Time. Take time to learn new things.
