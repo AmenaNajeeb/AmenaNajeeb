@@ -2,8 +2,14 @@
 
 I am Amena. The top 3 things I love are Teaching, Coding, Cooking.
 I keep exploring courses online and implement what I learn.
-
+I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
 <br>
+
+Things I tell myself to stay motivated:
+- Give Yourself Time. Take time to learn new things.
+- Be patient. During learning, you may hit roadblocks. Try to overcome them. If you can't solve it in one go, just take a small break.
+- Be regular. Do not procrastinate.
+
 
 <div align="center" dir="auto"> 
 <!--     <code><a href="https://www.cplusplus.com/" title="C++" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"></a></code> -->
@@ -31,7 +37,8 @@ I keep exploring courses online and implement what I learn.
 </div>
 
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmenaNajeeb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
