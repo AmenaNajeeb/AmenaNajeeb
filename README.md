@@ -5,7 +5,7 @@ I keep exploring new courses online and implement what I learn.
 I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
 <br/>
 <br/>
-<img src="https://github.com/AmenaNajeeb/AmenaNajeeb/blob/main/quote1.jpg" style="display:block; margin-left:auto; margin-right:auto; width: 25%; height:25%; text-align:center;">
+<img src="https://github.com/AmenaNajeeb/AmenaNajeeb/blob/main/quote1.jpg" style="display:block; margin-left:auto; margin-right:auto; width: 25%; height:25%; justify-content:center;">
 <br/>
 <br/>
 Things I tell myself to stay motivated:
