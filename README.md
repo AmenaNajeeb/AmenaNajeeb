@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am Amena. The top 3 things I love are Teaching, Coding, Cooking.
-I keep exploring courses online and implement what I learn.
+I am Amena. The top 3 things I love are Teaching, Coding, Cooking.<br/>
+I keep exploring new courses online and implement what I learn.
 I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
-<br>
-
+<br/>
+<img width="90%" src="https://cdn.graciousquotes.com/wp-content/uploads/2020/08/Anyone-who-stops-learning-is-old-whether-at-twenty-or-eighty.-Anyone-who-keeps-learning-stays-young.-Henry-Ford.jpg" style="max-width: 100%;">
+<br/>
 Things I tell myself to stay motivated:
 - Give Yourself Time. Take time to learn new things.
 - Be patient. During learning, you may hit roadblocks. Try to overcome them. If you can't solve it in one go, just take a small break.
