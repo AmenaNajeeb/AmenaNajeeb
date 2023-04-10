@@ -4,7 +4,7 @@ I am Amena. The top 3 things I love are Teaching, Coding, Cooking.<br/>
 I keep exploring new courses online and implement what I learn.
 I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
 <br/>
-<img width="90%" src="https://cdn.graciousquotes.com/wp-content/uploads/2020/08/Anyone-who-stops-learning-is-old-whether-at-twenty-or-eighty.-Anyone-who-keeps-learning-stays-young.-Henry-Ford.jpg" style="max-width: 100%; max-height:600px; overflow:hidden;">
+<img width="90%" src="https://cdn.graciousquotes.com/wp-content/uploads/2020/08/Anyone-who-stops-learning-is-old-whether-at-twenty-or-eighty.-Anyone-who-keeps-learning-stays-young.-Henry-Ford.jpg" style="max-width: 100%; height:600px; overflow:hidden;">
 <br/>
 Things I tell myself to stay motivated:
 - Give Yourself Time. Take time to learn new things.
