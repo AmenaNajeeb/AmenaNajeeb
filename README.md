@@ -5,15 +5,13 @@ I keep exploring new courses online and implement what I learn.
 I am also interested in Robotics, AI-ML, Data Science, Web Development and Digital Marketing.
 <br/>
 <br/>
-<img src="https://github.com/AmenaNajeeb/AmenaNajeeb/blob/main/quote1.jpg" style="display:block; margin-left:auto; margin-right:auto; width: 25%; height:25%; justify-content:center;">
-<br/>
-<br/>
 Things I tell myself to stay motivated:
 - Give Yourself Time. Take time to learn new things.
 - Be patient. During learning, you may hit roadblocks. Try to overcome them. If you can't solve it in one go, just take a small break.
 - Be regular. Do not procrastinate.
-
-
+<img src="https://github.com/AmenaNajeeb/AmenaNajeeb/blob/main/quote1.jpg" style="display:block; margin-left:auto; margin-right:auto; width: 25%; height:25%; justify-content:center; align="center" dir="auto"">
+<br/>
+<br/>
 <div align="center" dir="auto"> 
 <!--     <code><a href="https://www.cplusplus.com/" title="C++" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"></a></code> -->
     <code><a href="https://www.python.org" title="Python" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a></code>
