@@ -14,7 +14,7 @@ Things I tell myself to stay motivated:
 - Be patient. During learning, you may hit roadblocks. Try to overcome them. If you can't solve it in one go, just take a small break.
 - Be regular. Do not procrastinate.
 
-<div align="center" dir="auto"> 
+<!-- <div align="center" dir="auto"> 
 <!--     <code><a href="https://www.cplusplus.com/" title="C++" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"></a></code> -->
     <code><a href="https://www.python.org" title="Python" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a></code>
     <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&amp;v=4" alt="jupyter" width="40" height="40" style="max-width: 100%;"></a></code>
@@ -37,7 +37,7 @@ Things I tell myself to stay motivated:
     <code><a href="https://kubernetes.io/" title="Kubernetes" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40" style="max-width: 100%;"></a></code>
     <code><a href="https://www.scala-lang.org/" title="Scala" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" alt="scala" width="40" height="40" style="max-width: 100%;"></a></code>
     <code><a href="https://www.postman.com/" title="Postman" rel="nofollow"><img src="https://camo.githubusercontent.com/b245ff76e98cda41295d397e1a8632333c6569cb0a62dfaa2b374acb55aa7ca6/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f706f73746d616e2f696d6167652f75706c6f61642f745f7465616d5f6c6f676f2f76313632393836393139342f7465616d2f32383933616564653233663031626663626432333139333236626339366136656430353234656261373539373435656436643733343035613361386236376138" alt="postman" width="40" height="40" data-canonical-src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" style="max-width: 100%;"></a></code> -->
-</div>
+</div> -->
 
 <br>
 
